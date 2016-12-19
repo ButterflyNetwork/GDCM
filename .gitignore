@@ -10,3 +10,6 @@ CMakeLists.txt.user*
 
 # kdevelop files
 *.kdev*
+
+# build directories
+build-*
